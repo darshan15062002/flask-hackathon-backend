@@ -1,0 +1,4 @@
+Flask==2.0.1
+requests==2.26.0
+PyPDF2==1.26.0
+transformers==4.11.2
